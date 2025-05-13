@@ -9,3 +9,10 @@ body{
     background-color:rgb(206, 206, 206);
     color: rgb(0, 0, 0);
 }
+
+.expandir{
+    padding: 0px;
+    margin: 0px;
+    width: 1910px;
+    height: 20px;
+}
