@@ -16,3 +16,15 @@ body{
     width: 1910px;
     height: 20px;
 }
+
+.flex{
+    display: flex;
+}
+
+#cinza{
+    background-color:rgb(206, 206, 206);
+    padding: 0px;
+    margin: 0px;
+    width: 5px;
+    height: 850px;
+}
